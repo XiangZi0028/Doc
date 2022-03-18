@@ -102,7 +102,7 @@ C中的struct没有成员函数，且无原先访问改了
 
 为对象本身的引用，用于根据一个已存在的对象复制一个新的对象，一般函数就是一一赋值成员变量，编译器会默认生成拷贝构造函数，但是最好不要用，如果类成员中有指针就比较麻烦了
 
-<img src="C:\Users\WellLink-ZZX\AppData\Roaming\Typora\typora-user-images\image-20220317165843402.png" alt="image-20220317165843402" style="zoom:150%;" />
+<img src="E:\Document\C++\pic\image-20220317165843402.png" alt="image-20220317165843402" style="zoom:150%;" />
 
 ###### 移动构造函数
 
@@ -145,7 +145,7 @@ A a3=a1;//运用拷贝构造
 
 #### i++和++i
 
-![image-20220317172311795](C:\Users\WellLink-ZZX\AppData\Roaming\Typora\typora-user-images\image-20220317172311795.png)
+![image-20220317172311795](E:\Document\C++\pic\image-20220317172311795.png)
 
 #### 斐波那契数列
 
